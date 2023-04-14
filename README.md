@@ -1,5 +1,5 @@
 # BoardingHouse
-Projeto criado para praticar a criação de vetores com orientação a objetos. O programa consiste em um criar um vetor para representar dez quartos
+Projeto criado para praticar a criação de vetores com orientação a objetos. O programa consiste em criar um vetor para representar dez quartos
 de um prédio e, em seguida, registrar as informações do inquilino (o objeto) em seu devido quarto. Por fim, escrever os quartos ocupados e os que ficaram disponíveis.
 
 ## Execução do programa:
